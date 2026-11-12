@@ -1,1 +1,1 @@
-I creator of the 1 program with ventoy and rufus
+If the program didn't work try to install Python
